@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e8e8e8;
+}
+
+header {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 110px;
+}
+
+.hleft {
+  display: flex;
+  gap: 40px;
+}
+
+.lleft {
+  display: flex;
+  gap: 33.5px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+select {
+  width: 87px;
+  font-size: 20px;
+  border: #d9d9d9;
+}
+
+.panprib {
+  padding: 11px 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e33d0e;
+}
+
+.pnprb {
+  text-align: center;
+}
+
+.box1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 120px;
+  color: #ffffff;
+  background-color: #16233b;
+}
+
+.box {
+  padding-top: 40px;
+}
+
+#img4 {
+  max-width: 40px;
+}
+
+.salary {
+  padding: 11px 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 400px;
+}
+
+.slry {
+  text-align: center;
+}
+
+.box2 {
+  margin: 20px 20px;
+  background-color: #d9d9d9;
+  border-radius: 32px;
+}
+
+hr {
+  background-color: #ffffff;
+}
+
+.container {
+  display: flex;
+}
+
+.card {
+  border-radius: 25px;
+  width: 270px;
+  height: 335px;
+  background-color: #ffffff;
+}
+
+.grup {
+  padding: 28px 33px;
+  display: flex;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.bbox {
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffc02d;
+}
+
+.atom {
+  padding-top: 21px;
+  padding-bottom: 13px;
+  width: 70px;
+}
+
+.gp,
+.tp {
+  color: #ffffff;
+}
+.tp {
+  padding-bottom: 10px;
+}
+
+.stud p {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.time p {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.stud {
+  padding-top: 19px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card1 {
+  padding: 20px;
+}
+
+.crds {
+  padding: 36px;
+  display: flex;
+  gap: 19px;
+}
+
+.butt {
+  margin-top: 60px;
+  margin-left: 150px;
+  border: none;
+  background-color: #009689;
+  color: #ffffff;
+  padding: 9px 5px;
+  border-radius: 5px;
+}

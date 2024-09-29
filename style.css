@@ -1,0 +1,14 @@
+.wrapper-minus img {
+    width: 30px;
+}
+
+.wrapper-yoqlama img {
+    width: 27px;
+}
+
+.bg20 {
+    color: red;
+}
+#ref:active {
+    scale: 0.9;
+}
