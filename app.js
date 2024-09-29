@@ -12,7 +12,3 @@ btn.addEventListener("click", () => {
     prompt("Parol yoki Teledon raqam hato");
   }
 });
-
-
-
-
